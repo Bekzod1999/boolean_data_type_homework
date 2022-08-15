@@ -9,6 +9,3 @@ def main(a,b):
     """ 
     # Write your code here
     return a == b
-
-x = main(1,1)
-print(x)
