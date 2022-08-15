@@ -6,7 +6,7 @@ def main(a,b):
         b: int
     Returns:
         bool
-    """
+    """ 
     # Write your code here
     return a == b
 
