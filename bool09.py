@@ -6,4 +6,5 @@ def main(a):
         bool
     """
     # Write your code here
-    return 
+    y=a>0
+    return y
