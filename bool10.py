@@ -9,4 +9,6 @@ def main(a):
     """
     # Write your code here
     y=sqrt(a)
-    return y*y == a
+    return y % 1 == 0
+x=main(16)
+print(x)
